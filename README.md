@@ -1,6 +1,9 @@
 # fraudDetection
 
-you will need to make sure you have TensorFlow installed 
+## Project Brief
+The aim of this project was to analyze the transactions of customers and identitfy it was fraudulent or not.
+
+You will need to make sure you have TensorFlow installed.
 
 ## Dataset
 You can recieve the dataset in this for this fraudDetection projects from Kaggle(https://www.kaggle.com/mlg-ulb/creditcardfraud).
