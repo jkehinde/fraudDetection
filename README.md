@@ -1,7 +1,7 @@
 # fraudDetection
 
 ## Project Brief
-The aim of this project was to analyze the transactions of customers and identitfy it was fraudulent or not.
+The aim of this project was to analyze the transactions of customers and identitfy if it was fraudulent or not.
 
 You will need to make sure you have TensorFlow installed.
 
